@@ -19,7 +19,7 @@
   <img  height="38" alingn="left" src="./images/css3.jpg" alt="CSS" />
   <img  height="38" alingn="left" src="./images/cSharp.png" alt="C#" />
   <img  height="38" alingn="left" src="./images/javascript.png" alt="JavaScript" />
-  <img  height="38" alingn="left" src="./images/html.png" alt="Html" />
+  <img  height="38" alingn="left" src="./images/typescript.png" alt="TypeScript" />
   <img  height="38" alingn="left" src="./images/html.png" alt="Html" />
   <img  height="38" alingn="left" src="./images/angular.png" alt="Angular" />
 </p>
