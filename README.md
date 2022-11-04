@@ -7,7 +7,7 @@
   <h2><img align='center' width='35' alt="GIF" src="./images/Profile.png"/> General info:</h2>
 
   - <img align='center' width='30' alt="GIF" src="./images/Game.png"/> Currently working in a <a href="https://github.com/AlexandreWN/ProjetoCampinas_Curitiba">project</a> for my company
-  - <img align='center' width='30' alt="GIF" src="./images/work.jpg"/>   Dev. Jr. at TQS 
+  - <img align='center' width='30' alt="GIF" src="./images/work.png"/>   Dev. Jr. at TQS 
   - <img align='center' width='30' alt="GIF" src="./images/Birthday.png"/>   20 years old
   - <img align='center' width='30' alt="GIF" src="./images/Study.png"/>   I'm a computer engineering student :)
   - <img align='center' width='30' alt="GIF" src="./images/Mail.png"/>   How to reach me: alisonhenrique@msn.com
