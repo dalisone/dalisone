@@ -47,4 +47,3 @@
   <img  width="38" height="38" alingn="left" src="./images/raspberry.png" alt="Raspberty" />  
 </p>
 
-### This readme.md was heavily based on my friend [Rodrigo2019](https://github.com/rodrigo2019)
